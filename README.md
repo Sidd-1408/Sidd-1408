@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sidd-1408
-- 👀 I’m interested in Data Science and compitative programming
-- 🌱 I’m currently learning AI/ML
+- 👀 I’m interested in Data Science and competitive programming
+- 🌱 I’m currently learning AI/ML and Android Development
 - 💞️ I’m looking to collaborate on Mobile apps and backend 
 - 📫 How to reach me duttasid1408@gmail.com
 
